@@ -62,4 +62,12 @@ career_goal: >
   </a>
 </p>
 
+---
+
+### 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/0xpandey/0xpandey/output/github-snake-dark.svg" />
+</p>
+
 
